@@ -29,7 +29,7 @@
     "jquery": "2.2.4",
     "jwt-simple": "0.5.1",
     "less-middleware": "2.2.0",
-    "marked": "0.3.6",
+    "marked": "0.4.0",
     "media-type": "0.3.0",
     "method-override": "2.3.7",
     "mime-db": "https://github.com/jshttp/mime-db/archive/v1.26.0.tar.gz",
