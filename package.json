@@ -59,7 +59,7 @@
     "request": "2.80.0",
     "rfc2047": "2.0.1",
     "sanitize-html": "1.14.1",
-    "select2": "3.5.2-browserify",
+    "select2": "4.0.8",
     "select2-bootstrap-css": "1.4.6",
     "serve-favicon": "2.4.1",
     "toobusy-js-harmony": "git://github.com/OpenUserJs/node-toobusy#harmony",
